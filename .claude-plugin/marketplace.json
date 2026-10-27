@@ -1,0 +1,49 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/refs/heads/main/marketplace/marketplace.schema.json",
+  "name": "apple-research-skill",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Baher Tamer"
+  },
+  "metadata": {
+    "description": "Researches Apple frameworks and APIs from official Apple docs, WWDC sessions, the HIG and release notes into a sourced report before planning or coding."
+  },
+  "plugins": [
+    {
+      "name": "apple-research",
+      "description": "Researches Apple frameworks and APIs from official Apple docs, WWDC sessions, the HIG and release notes into a sourced report before planning or coding.",
+      "repository": "https://github.com/BaherTamer/apple-research-skill",
+      "version": "1.0.0",
+      "author": {
+        "name": "Baher Tamer"
+      },
+      "license": "MIT",
+      "category": "development",
+      "keywords": [
+        "swift",
+        "swiftui",
+        "ios",
+        "macos",
+        "apple",
+        "developer",
+        "research",
+        "docs",
+        "wwdc",
+        "hig"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ios",
+        "macos",
+        "apple",
+        "developer",
+        "research",
+        "docs",
+        "wwdc",
+        "hig"
+      ],
+      "source": "./"
+    }
+  ]
+}

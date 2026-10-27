@@ -1,0 +1,24 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "apple-research",
+  "version": "1.0.0",
+  "description": "Researches Apple frameworks and APIs from official Apple docs, WWDC sessions, the HIG and release notes into a sourced report before planning or coding.",
+  "author": {
+    "name": "Baher Tamer"
+  },
+  "homepage": "https://github.com/BaherTamer/apple-research-skill",
+  "repository": "https://github.com/BaherTamer/apple-research-skill",
+  "license": "MIT",
+  "keywords": [
+    "swift",
+    "swiftui",
+    "ios",
+    "macos",
+    "apple",
+    "developer",
+    "research",
+    "docs",
+    "wwdc",
+    "hig"
+  ]
+}

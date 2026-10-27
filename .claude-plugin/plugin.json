@@ -1,0 +1,25 @@
+{
+  "name": "apple-research",
+  "version": "1.0.0",
+  "description": "Researches Apple frameworks and APIs from official Apple docs, WWDC sessions, the HIG and release notes into a sourced report before planning or coding.",
+  "author": {
+    "name": "Baher Tamer"
+  },
+  "repository": "https://github.com/BaherTamer/apple-research-skill",
+  "license": "MIT",
+  "keywords": [
+    "swift",
+    "swiftui",
+    "ios",
+    "macos",
+    "apple",
+    "developer",
+    "research",
+    "docs",
+    "wwdc",
+    "hig"
+  ],
+  "skills": [
+    "./skills/apple-research"
+  ]
+}
